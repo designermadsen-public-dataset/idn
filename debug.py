@@ -1,5 +1,8 @@
+import wrappers
+
 def main():
-    pass
+    wrappers.numbers_training_dataset()
+    wrappers.numbers_validation_dataset()
 
 
 if __name__ == '__main__':
